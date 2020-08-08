@@ -8,30 +8,69 @@
 
 /* Begin PBXBuildFile section */
 		5858CEF724DF57C70027C5D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CEF624DF57C70027C5D2 /* AppDelegate.swift */; };
-		5858CEF924DF57C70027C5D2 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5858CEF824DF57C70027C5D2 /* GameScene.sks */; };
-		5858CEFB24DF57C70027C5D2 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5858CEFA24DF57C70027C5D2 /* Actions.sks */; };
 		5858CEFD24DF57C70027C5D2 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CEFC24DF57C70027C5D2 /* GameScene.swift */; };
 		5858CEFF24DF57C70027C5D2 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CEFE24DF57C70027C5D2 /* GameViewController.swift */; };
 		5858CF0224DF57C70027C5D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF0024DF57C70027C5D2 /* Main.storyboard */; };
 		5858CF0424DF57C80027C5D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF0324DF57C80027C5D2 /* Assets.xcassets */; };
 		5858CF0724DF57C80027C5D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF0524DF57C80027C5D2 /* LaunchScreen.storyboard */; };
+		5858CF1924DF597F0027C5D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CF1824DF597F0027C5D2 /* AppDelegate.swift */; };
+		5858CF2124DF597F0027C5D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CF2024DF597F0027C5D2 /* ViewController.swift */; };
+		5858CF2324DF59800027C5D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF2224DF59800027C5D2 /* Assets.xcassets */; };
+		5858CF2624DF59800027C5D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF2424DF59800027C5D2 /* Main.storyboard */; };
+		5858CF2C24DF59870027C5D2 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CEFC24DF57C70027C5D2 /* GameScene.swift */; };
+		5858CF3524DF59F60027C5D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CF3424DF59F60027C5D2 /* AppDelegate.swift */; };
+		5858CF3D24DF59F60027C5D2 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CF3C24DF59F60027C5D2 /* GameViewController.swift */; };
+		5858CF4024DF59F60027C5D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF3E24DF59F60027C5D2 /* Main.storyboard */; };
+		5858CF4224DF59F70027C5D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF4124DF59F70027C5D2 /* Assets.xcassets */; };
+		5858CF4524DF59F70027C5D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF4324DF59F70027C5D2 /* LaunchScreen.storyboard */; };
+		5858CF4A24DF5A1D0027C5D2 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5858CEFC24DF57C70027C5D2 /* GameScene.swift */; };
+		5858CF4D24DF5D010027C5D2 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF4C24DF5D010027C5D2 /* Media.xcassets */; };
+		5858CF4E24DF5D010027C5D2 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF4C24DF5D010027C5D2 /* Media.xcassets */; };
+		5858CF4F24DF5D010027C5D2 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5858CF4C24DF5D010027C5D2 /* Media.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5858CEF324DF57C70027C5D2 /* P3Sprite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = P3Sprite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5858CEF624DF57C70027C5D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5858CEF824DF57C70027C5D2 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		5858CEFA24DF57C70027C5D2 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		5858CEFC24DF57C70027C5D2 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		5858CEFE24DF57C70027C5D2 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		5858CF0124DF57C70027C5D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5858CF0324DF57C80027C5D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5858CF0624DF57C80027C5D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5858CF0824DF57C80027C5D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5858CF1624DF597F0027C5D2 /* P3SpriteMac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = P3SpriteMac.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5858CF1824DF597F0027C5D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5858CF2024DF597F0027C5D2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5858CF2224DF59800027C5D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5858CF2524DF59800027C5D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5858CF2724DF59800027C5D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5858CF2824DF59800027C5D2 /* P3SpriteMac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = P3SpriteMac.entitlements; sourceTree = "<group>"; };
+		5858CF3224DF59F60027C5D2 /* P3SpriteTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = P3SpriteTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5858CF3424DF59F60027C5D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5858CF3C24DF59F60027C5D2 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		5858CF3F24DF59F60027C5D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5858CF4124DF59F70027C5D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5858CF4424DF59F70027C5D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5858CF4624DF59F70027C5D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5858CF4C24DF5D010027C5D2 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		5858CEF024DF57C70027C5D2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5858CF1324DF597F0027C5D2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5858CF2F24DF59F60027C5D2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -44,7 +83,10 @@
 		5858CEEA24DF57C70027C5D2 = {
 			isa = PBXGroup;
 			children = (
+				5858CF0F24DF589B0027C5D2 /* Shared */,
 				5858CEF524DF57C70027C5D2 /* P3Sprite */,
+				5858CF1724DF597F0027C5D2 /* P3SpriteMac */,
+				5858CF3324DF59F60027C5D2 /* P3SpriteTV */,
 				5858CEF424DF57C70027C5D2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,6 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				5858CEF324DF57C70027C5D2 /* P3Sprite.app */,
+				5858CF1624DF597F0027C5D2 /* P3SpriteMac.app */,
+				5858CF3224DF59F60027C5D2 /* P3SpriteTV.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +105,6 @@
 			isa = PBXGroup;
 			children = (
 				5858CEF624DF57C70027C5D2 /* AppDelegate.swift */,
-				5858CEF824DF57C70027C5D2 /* GameScene.sks */,
-				5858CEFA24DF57C70027C5D2 /* Actions.sks */,
-				5858CEFC24DF57C70027C5D2 /* GameScene.swift */,
 				5858CEFE24DF57C70027C5D2 /* GameViewController.swift */,
 				5858CF0024DF57C70027C5D2 /* Main.storyboard */,
 				5858CF0324DF57C80027C5D2 /* Assets.xcassets */,
@@ -71,6 +112,41 @@
 				5858CF0824DF57C80027C5D2 /* Info.plist */,
 			);
 			path = P3Sprite;
+			sourceTree = "<group>";
+		};
+		5858CF0F24DF589B0027C5D2 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				5858CEFC24DF57C70027C5D2 /* GameScene.swift */,
+				5858CF4C24DF5D010027C5D2 /* Media.xcassets */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		5858CF1724DF597F0027C5D2 /* P3SpriteMac */ = {
+			isa = PBXGroup;
+			children = (
+				5858CF1824DF597F0027C5D2 /* AppDelegate.swift */,
+				5858CF2024DF597F0027C5D2 /* ViewController.swift */,
+				5858CF2224DF59800027C5D2 /* Assets.xcassets */,
+				5858CF2424DF59800027C5D2 /* Main.storyboard */,
+				5858CF2724DF59800027C5D2 /* Info.plist */,
+				5858CF2824DF59800027C5D2 /* P3SpriteMac.entitlements */,
+			);
+			path = P3SpriteMac;
+			sourceTree = "<group>";
+		};
+		5858CF3324DF59F60027C5D2 /* P3SpriteTV */ = {
+			isa = PBXGroup;
+			children = (
+				5858CF3424DF59F60027C5D2 /* AppDelegate.swift */,
+				5858CF3C24DF59F60027C5D2 /* GameViewController.swift */,
+				5858CF3E24DF59F60027C5D2 /* Main.storyboard */,
+				5858CF4124DF59F70027C5D2 /* Assets.xcassets */,
+				5858CF4324DF59F70027C5D2 /* LaunchScreen.storyboard */,
+				5858CF4624DF59F70027C5D2 /* Info.plist */,
+			);
+			path = P3SpriteTV;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -93,6 +169,40 @@
 			productReference = 5858CEF324DF57C70027C5D2 /* P3Sprite.app */;
 			productType = "com.apple.product-type.application";
 		};
+		5858CF1524DF597F0027C5D2 /* P3SpriteMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5858CF2924DF59800027C5D2 /* Build configuration list for PBXNativeTarget "P3SpriteMac" */;
+			buildPhases = (
+				5858CF1224DF597F0027C5D2 /* Sources */,
+				5858CF1324DF597F0027C5D2 /* Frameworks */,
+				5858CF1424DF597F0027C5D2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = P3SpriteMac;
+			productName = P3SpriteMac;
+			productReference = 5858CF1624DF597F0027C5D2 /* P3SpriteMac.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5858CF3124DF59F60027C5D2 /* P3SpriteTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5858CF4724DF59F70027C5D2 /* Build configuration list for PBXNativeTarget "P3SpriteTV" */;
+			buildPhases = (
+				5858CF2E24DF59F60027C5D2 /* Sources */,
+				5858CF2F24DF59F60027C5D2 /* Frameworks */,
+				5858CF3024DF59F60027C5D2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = P3SpriteTV;
+			productName = P3SpriteTV;
+			productReference = 5858CF3224DF59F60027C5D2 /* P3SpriteTV.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -104,6 +214,12 @@
 				ORGANIZATIONNAME = PatrickWinchell;
 				TargetAttributes = {
 					5858CEF224DF57C70027C5D2 = {
+						CreatedOnToolsVersion = 11.3;
+					};
+					5858CF1524DF597F0027C5D2 = {
+						CreatedOnToolsVersion = 11.3;
+					};
+					5858CF3124DF59F60027C5D2 = {
 						CreatedOnToolsVersion = 11.3;
 					};
 				};
@@ -122,6 +238,8 @@
 			projectRoot = "";
 			targets = (
 				5858CEF224DF57C70027C5D2 /* P3Sprite */,
+				5858CF1524DF597F0027C5D2 /* P3SpriteMac */,
+				5858CF3124DF59F60027C5D2 /* P3SpriteTV */,
 			);
 		};
 /* End PBXProject section */
@@ -131,11 +249,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5858CF4D24DF5D010027C5D2 /* Media.xcassets in Resources */,
 				5858CF0224DF57C70027C5D2 /* Main.storyboard in Resources */,
-				5858CEF924DF57C70027C5D2 /* GameScene.sks in Resources */,
 				5858CF0424DF57C80027C5D2 /* Assets.xcassets in Resources */,
 				5858CF0724DF57C80027C5D2 /* LaunchScreen.storyboard in Resources */,
-				5858CEFB24DF57C70027C5D2 /* Actions.sks in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5858CF1424DF597F0027C5D2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5858CF2324DF59800027C5D2 /* Assets.xcassets in Resources */,
+				5858CF2624DF59800027C5D2 /* Main.storyboard in Resources */,
+				5858CF4E24DF5D010027C5D2 /* Media.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5858CF3024DF59F60027C5D2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5858CF4F24DF5D010027C5D2 /* Media.xcassets in Resources */,
+				5858CF4024DF59F60027C5D2 /* Main.storyboard in Resources */,
+				5858CF4224DF59F70027C5D2 /* Assets.xcassets in Resources */,
+				5858CF4524DF59F70027C5D2 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,6 +287,26 @@
 				5858CEFD24DF57C70027C5D2 /* GameScene.swift in Sources */,
 				5858CEFF24DF57C70027C5D2 /* GameViewController.swift in Sources */,
 				5858CEF724DF57C70027C5D2 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5858CF1224DF597F0027C5D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5858CF2124DF597F0027C5D2 /* ViewController.swift in Sources */,
+				5858CF2C24DF59870027C5D2 /* GameScene.swift in Sources */,
+				5858CF1924DF597F0027C5D2 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5858CF2E24DF59F60027C5D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5858CF4A24DF5A1D0027C5D2 /* GameScene.swift in Sources */,
+				5858CF3D24DF59F60027C5D2 /* GameViewController.swift in Sources */,
+				5858CF3524DF59F60027C5D2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +325,30 @@
 			isa = PBXVariantGroup;
 			children = (
 				5858CF0624DF57C80027C5D2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		5858CF2424DF59800027C5D2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5858CF2524DF59800027C5D2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5858CF3E24DF59F60027C5D2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5858CF3F24DF59F60027C5D2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5858CF4324DF59F70027C5D2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5858CF4424DF59F70027C5D2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -299,7 +481,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.PatrickWinchell.P3Sprite;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SuperPartyAwesome.P3Sprite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,10 +499,94 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.PatrickWinchell.P3Sprite;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SuperPartyAwesome.P3Sprite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		5858CF2A24DF59800027C5D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = P3SpriteMac/P3SpriteMac.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 77UF6USCA9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = P3SpriteMac/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SuperPartyAwesome.P3SpriteMac;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		5858CF2B24DF59800027C5D2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = P3SpriteMac/P3SpriteMac.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 77UF6USCA9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = P3SpriteMac/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SuperPartyAwesome.P3SpriteMac;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		5858CF4824DF59F70027C5D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 77UF6USCA9;
+				INFOPLIST_FILE = P3SpriteTV/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.SuperPartyAwesome.P3SpriteTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 13.2;
+			};
+			name = Debug;
+		};
+		5858CF4924DF59F70027C5D2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 77UF6USCA9;
+				INFOPLIST_FILE = P3SpriteTV/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.SuperPartyAwesome.P3SpriteTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 13.2;
 			};
 			name = Release;
 		};
@@ -341,6 +607,24 @@
 			buildConfigurations = (
 				5858CF0C24DF57C80027C5D2 /* Debug */,
 				5858CF0D24DF57C80027C5D2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5858CF2924DF59800027C5D2 /* Build configuration list for PBXNativeTarget "P3SpriteMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5858CF2A24DF59800027C5D2 /* Debug */,
+				5858CF2B24DF59800027C5D2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5858CF4724DF59F70027C5D2 /* Build configuration list for PBXNativeTarget "P3SpriteTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5858CF4824DF59F70027C5D2 /* Debug */,
+				5858CF4924DF59F70027C5D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

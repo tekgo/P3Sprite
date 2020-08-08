@@ -1,21 +1,23 @@
 //
-//  GameViewController.swift
-//  P3Sprite
+//  ViewController.swift
+//  P3SpriteMac
 //
 //  Created by Pat Winchell on 8/8/20.
 //  Copyright © 2020 SuperPartyAwesome. All rights reserved.
 //
 
-import UIKit
+import Cocoa
 import SpriteKit
 import GameplayKit
 
-class GameViewController: UIViewController {
+class ViewController: NSViewController {
 
+    @IBOutlet var skView: SKView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        if let view = self.view as! SKView? {
+
+        if let view = self.skView {
             let scene = GameScene()
             // Set the scale mode to scale to fit the window
             scene.scaleMode = .aspectFill
@@ -29,20 +31,5 @@ class GameViewController: UIViewController {
             view.showsNodeCount = true
         }
     }
-
-    override var shouldAutorotate: Bool {
-        return true
-    }
-
-    override var supportedInterfaceOrientations: UIInterfaceOrientationMask {
-        if UIDevice.current.userInterfaceIdiom == .phone {
-            return .allButUpsideDown
-        } else {
-            return .all
-        }
-    }
-
-    override var prefersStatusBarHidden: Bool {
-        return true
-    }
 }
+
